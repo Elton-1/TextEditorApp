@@ -1,1 +1,1 @@
-This is an text editor application Programmed in C# with a tweak of XAML with WPF that runs in Windows. If you are interested in installing this you can find it at: https://www.dropbox.com/scl/fi/mpbdl5mdbqt0xt4umza98/app.zip?rlkey=sq8oquqywlyhfs6uji5ekycqx&dl=0.
+https://www.dropbox.com/scl/fi/mpbdl5mdbqt0xt4umza98/app.zip?rlkey=sq8oquqywlyhfs6uji5ekycqx&dl=0.
